@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Lesson4_NP_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D1F383-0EA0-4849-B1B1-EDD706B0B7AF}|Server\\Server.csproj|c:\\users\\lenovo\\source\\repos\\lesson4_np_practice\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D1F383-0EA0-4849-B1B1-EDD706B0B7AF}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6876743F-F80E-440F-8824-82324FFE388B}|XamlOfClientSide\\XamlOfClientSide.csproj|c:\\users\\lenovo\\source\\repos\\lesson4_np_practice\\xamlofclientside\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6876743F-F80E-440F-8824-82324FFE388B}|XamlOfClientSide\\XamlOfClientSide.csproj|solutionrelative:xamlofclientside\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\Lesson4_NP_Practice\\XamlOfClientSide\\bin\\Debug\\net8.0-windows\\XamlOfClientSide.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:XamlOfClientSide\\bin\\Debug\\net8.0-windows\\XamlOfClientSide.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XamlOfClientSide.exe",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Lesson4_NP_Practice\\XamlOfClientSide\\bin\\Debug\\net8.0-windows\\XamlOfClientSide.exe",
+              "RelativeDocumentMoniker": "XamlOfClientSide\\bin\\Debug\\net8.0-windows\\XamlOfClientSide.exe",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Lesson4_NP_Practice\\XamlOfClientSide\\bin\\Debug\\net8.0-windows\\XamlOfClientSide.exe",
+              "RelativeToolTip": "XamlOfClientSide\\bin\\Debug\\net8.0-windows\\XamlOfClientSide.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-09-16T07:20:20.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Lesson4_NP_Practice\\XamlOfClientSide\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "XamlOfClientSide\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Lesson4_NP_Practice\\XamlOfClientSide\\MainWindow.xaml.cs",
+              "RelativeToolTip": "XamlOfClientSide\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAjwHEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:32:36.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Lesson4_NP_Practice\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Lesson4_NP_Practice\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAjwH0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:36:05.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
